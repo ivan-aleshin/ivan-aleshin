@@ -19,7 +19,10 @@ Database Management: MySQL, PostgreSQL, MongoDB
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
 
 📈 Projects  
-..coming soon
+[Educational Projects](https://github.com/ivan-aleshin/yandex-practicum-projects) from Yandex Practicum Data Science Course:
+- [Personal Data Protection](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method)
+- [ML in Metall Industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
+
 
 📫 Contact Me  
 Email:  
