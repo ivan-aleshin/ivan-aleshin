@@ -19,9 +19,13 @@ Database Management: MySQL, PostgreSQL, MongoDB
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
 
 📈 Projects  
-[Educational Projects](https://github.com/ivan-aleshin/yandex-practicum-projects) from Yandex Practicum Data Science Course:
-- [Personal Data Protection](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/09_personal_data_protection_method)
+[Educational Projects](https://github.com/ivan-aleshin/yandex-practicum-projects) from Yandex Practicum Data Science Course. Here are some of the projects:
+- [Energy Consumption Optimization](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
+- [CV for Age Recognition](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
+- [NLP for Toxic Comments Detection](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/12_nlp_toxic_comments_detection)
+- [Number of Taxi Orders Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/11_timeseries_prediction)
 - [ML in Metall Industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
+- [And More..](https://github.com/ivan-aleshin/yandex-practicum-projects)
 
 
 📫 Contact Me  
