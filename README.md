@@ -4,7 +4,7 @@ I am a data scientist with a passion for solving complex problems using data. I 
 
 📚 Education  
 Completed 9 month Yandex Practicum Data Science Program  
-Bachelor's degree in Engineering science from Mendeleev University of Chemical Technologies of Russia  
+Master's degree in Engineering Science from Mendeleev University of Chemical Technologies of Russia  
 
 💼 Work Experience  
 Analyzing data using statistical methods to identify patterns and trends  
@@ -15,7 +15,7 @@ Creating data visualizations to communicate insights to stakeholders
 Programming Languages: Python, SQL  
 Data Science Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
 Data Visualization: Matplotlib, Seaborn, Plotly  
-Database Management: MySQL, PostgreSQL, MongoDB  
+Database Management: PostgreSQL, Clickhouse
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
 
 📈 Projects  
