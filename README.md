@@ -29,6 +29,6 @@ Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker
 
 
 📫 Contact Me  
-Email:  
-LinkedIn:  
+Email: ivan.aleshin.ai@gmail.com  
+LinkedIn:  [linkedin.com/in/ivan-aleshin/](https://www.linkedin.com/in/ivan-aleshin/)
 I am open to new opportunities and collaborations. Please feel free to reach out to me if you have any questions or if you'd like to work together on a project.
