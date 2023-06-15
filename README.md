@@ -13,7 +13,7 @@ Creating data visualizations to communicate insights to stakeholders
 
 🚀 Skills  
 Programming Languages: Python, SQL  
-Data Science Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
+Data Science Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, huggingface  
 Data Visualization: Matplotlib, Seaborn, Plotly  
 Database Management: PostgreSQL, Clickhouse
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
