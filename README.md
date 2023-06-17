@@ -3,7 +3,7 @@
 I am a data scientist with a passion for solving complex problems using data. I have experience in statistical analysis, data modeling, and data visualization. I am always looking for new challenges and opportunities to learn and grow.
 
 📚 Education  
-Completed 9 month Yandex Practicum Data Science Program  
+Completed Professional retraining program at Yandex Practicum for Data Science  
 Master's degree in Engineering Science from Mendeleev University of Chemical Technologies of Russia  
 
 💼 Work Experience  
@@ -27,6 +27,9 @@ Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker
 - [ML in Metall Industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
 - [And More..](https://github.com/ivan-aleshin/yandex-practicum-projects)
 
+[Pet Project: Application the Bert-like NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
+
+[Hakaton project: Machine Hack - Predict The Price Of Books](https://github.com/ivan-aleshin/hackatons_and_competiions/blob/main/book_price_prediction/books_price_prediction.ipynb) **got 22 of 5070 place**
 
 📫 Contact Me  
 Email: ivan.aleshin.ai@gmail.com  
