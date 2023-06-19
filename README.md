@@ -19,6 +19,11 @@ Database Management: PostgreSQL, Clickhouse
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
 
 📈 Projects  
+
+[Pet Project: Application of the Bert-like NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
+
+[Hakaton project: Machine Hack - Predict The Price Of Books](https://github.com/ivan-aleshin/hackatons_and_competiions/blob/main/book_price_prediction/books_price_prediction.ipynb) **took 22nd place out of 5050**
+
 [Educational Projects](https://github.com/ivan-aleshin/yandex-practicum-projects) from Yandex Practicum Data Science Course. Here are some of the projects:
 - [Energy Consumption Optimization](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
 - [CV for Age Recognition](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/13_cv_age_recognition)
@@ -26,10 +31,6 @@ Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker
 - [Number of Taxi Orders Prediction](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/11_timeseries_prediction)
 - [ML in Metall Industry](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/08_ml_in_metall_industry)
 - [And More..](https://github.com/ivan-aleshin/yandex-practicum-projects)
-
-[Pet Project: Application the Bert-like NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
-
-[Hakaton project: Machine Hack - Predict The Price Of Books](https://github.com/ivan-aleshin/hackatons_and_competiions/blob/main/book_price_prediction/books_price_prediction.ipynb) **took 22nd place out of 5050**
 
 📫 Contact Me  
 Email: ivan.aleshin.ai@gmail.com  
