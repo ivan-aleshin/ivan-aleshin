@@ -6,7 +6,7 @@ I am a data scientist with a passion for solving complex problems using data. I 
 Completed Professional retraining program at Yandex Practicum for Data Science  
 Master's degree in Engineering Science from Mendeleev University of Chemical Technologies of Russia  
 
-💼 Work Experience  
+💼 Experience  
 Analyzing data using statistical methods to identify patterns and trends  
 Building predictive models using machine learning algorithms  
 Creating data visualizations to communicate insights to stakeholders  
