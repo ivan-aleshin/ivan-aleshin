@@ -20,7 +20,7 @@ Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker
 
 📈 Projects  
 
-[Pet Project: Application of the Bert-like NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
+[Pet Project: Application of the Transformer-based Encoder NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
 
 [Hakaton project: Machine Hack - Predict The Price Of Books](https://github.com/ivan-aleshin/hackatons_and_competiions/blob/main/book_price_prediction/books_price_prediction.ipynb) **took 22nd place out of 5050**
 
