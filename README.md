@@ -3,7 +3,7 @@
 I am a data scientist with a passion for solving complex problems using data. I have experience in statistical analysis, data modeling, and data visualization. I am always looking for new challenges and opportunities to learn and grow.
 
 📚 Education  
-Completed Professional retraining program at Yandex Practicum for Data Science  
+Professional retraining program at Yandex Practicum for Data Science  
 Master's degree in Engineering Science from Mendeleev University of Chemical Technologies of Russia  
 
 💼 Experience  
@@ -19,10 +19,12 @@ Database Management: PostgreSQL, Clickhouse
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
 
 📈 Projects  
+[Exercises from Texts Generation App](https://github.com/ivan-aleshin/language_exerice_generator) try a deployed version [HERE](https://ex-gen.streamlit.app)  
+Language training application. Generates as many language exeercises as you want using your favorite books as a source.
 
-[Pet Project: Application of the Transformer-based Encoder NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
+[Application of the Transformer-based Encoder NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/tree/main/nlp_for_regression)
 
-[Hakaton project: Machine Hack - Predict The Price Of Books](https://github.com/ivan-aleshin/hackatons_and_competiions/blob/main/book_price_prediction/books_price_prediction.ipynb) **took 22nd place out of 5050**
+[Hakaton project: Machine Hack - Predict The Price Of Books](https://github.com/ivan-aleshin/hackatons_and_competiions/blob/main/book_price_prediction/books_price_prediction.ipynb) **took 22nd place out of more than 5000**
 
 [Educational Projects](https://github.com/ivan-aleshin/yandex-practicum-projects) from Yandex Practicum Data Science Course. Here are some of the projects:
 - [Energy Consumption Optimization](https://github.com/ivan-aleshin/yandex-practicum-projects/tree/main/15_prediction_temperature_of_steel)
