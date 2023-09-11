@@ -13,10 +13,10 @@ Creating data visualizations to communicate insights to stakeholders
 
 🚀 Skills  
 Programming Languages: Python, SQL  
-Data Science Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, huggingface  
+Data Science Libraries: Pandas, NumPy, Scikit-Learn, PySpark, MLFlow, TensorFlow, PyTorch, Huggingface  
 Data Visualization: Matplotlib, Seaborn, Plotly  
-Database Management: PostgreSQL, Clickhouse
-Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker  
+Database: PostgreSQL, Greenplum, Clickhouse
+Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker 
 
 📈 Projects  
 [Exercises from Texts Generation App](https://github.com/ivan-aleshin/language_exerice_generator) try a deployed version [HERE](https://ex-gen.streamlit.app)  
