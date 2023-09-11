@@ -19,6 +19,9 @@ Database: PostgreSQL, Greenplum, Clickhouse
 Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker 
 
 📈 Projects  
+[Different ML approaches research on Big Data using PySpark](https://github.com/ivan-aleshin/pyspark_chicago_taxi)  
+Comparison the efficiency of a single distributed model and several parallel models using the example of the problem of predicting the number of taxi orders for the next hour in Chicago.
+
 [Exercises from Texts Generation App](https://github.com/ivan-aleshin/language_exerice_generator) try a deployed version [HERE](https://ex-gen.streamlit.app)  
 Language training application. Generates as many language exeercises as you want using your favorite books as a source.
 
