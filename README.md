@@ -15,8 +15,8 @@ Creating data visualizations to communicate insights to stakeholders
 Programming Languages: Python, SQL  
 Data Science Libraries: Pandas, NumPy, Scikit-Learn, PySpark, MLFlow, TensorFlow, PyTorch, Huggingface  
 Data Visualization: Matplotlib, Seaborn, Plotly  
-Database: PostgreSQL, Greenplum, Clickhouse
-Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker 
+Database: PostgreSQL, Greenplum, Clickhouse  
+Other Tools: Bash, Git, Jupyter Notebook, Google Colab, Docker, Apache Airflow
 
 📈 Projects  
 [Different ML approaches research on Big Data using PySpark](https://github.com/ivan-aleshin/pyspark_chicago_taxi)  
